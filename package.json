@@ -1,0 +1,22 @@
+{
+  "name": "laravel-elixir6-wiredep",
+  "version": "1.0.0",
+  "description": "This is a simple wrapper around Laravel Elixir for Wiredep.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morrislaptop/laravel-elixir6-wiredep.git"
+  },
+  "author": "Craig Morris <cr@igmorr.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morrislaptop/laravel-elixir6-wiredep/issues"
+  },
+  "homepage": "https://github.com/morrislaptop/laravel-elixir6-wiredep#readme",
+  "dependencies": {
+    "wiredep": "^4.0.0"
+  }
+}
